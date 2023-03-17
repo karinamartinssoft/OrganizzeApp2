@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "460532970323",
+    "firebase_url": "https://fir-app-55a51-default-rtdb.firebaseio.com",
+    "project_id": "fir-app-55a51",
+    "storage_bucket": "fir-app-55a51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460532970323:android:f19d04794fa1d1f29ba7a6",
+        "android_client_info": {
+          "package_name": "com.example.organizzeapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460532970323-097a0s0jc0v0ioskhguoogu1kmincc4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.organizzeapp2",
+            "certificate_hash": "c41548803961f596201fe670f2621c7a1099852c"
+          }
+        },
+        {
+          "client_id": "460532970323-psh9g1oo6esu8tfgkvj3c33d7jjuskur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD10A6OqBnjqbUc-d9da44yF7cBaq74RvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460532970323-psh9g1oo6esu8tfgkvj3c33d7jjuskur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
