@@ -42,11 +42,12 @@ public class MainActivity extends IntroActivity {
                 .build());
     }
     public void btEntrar(View view){
-        //startActivity(new Intent(this, ));
+        startActivity(new Intent(this,LoginActivity.class ));
 
     }
 
     public void btCadastrar(View view){
+        startActivity(new Intent(this, CadastroActivity.class));
 
     }
 }
