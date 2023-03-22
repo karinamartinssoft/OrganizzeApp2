@@ -1,12 +1,12 @@
-package com.example.organizzeapp2;
+package com.example.organizzeapp2.activity;
 
-import androidx.appcompat.app.AppCompatActivity;
-
-import android.app.Fragment;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
+import com.example.organizzeapp2.R;
+import com.example.organizzeapp2.activity.CadastroActivity;
+import com.example.organizzeapp2.activity.LoginActivity;
 import com.heinrichreimersoftware.materialintro.app.IntroActivity;
 import com.heinrichreimersoftware.materialintro.slide.FragmentSlide;
 
@@ -42,7 +42,7 @@ public class MainActivity extends IntroActivity {
                 .build());
     }
     public void btEntrar(View view){
-        startActivity(new Intent(this,LoginActivity.class ));
+        startActivity(new Intent(this, LoginActivity.class ));
 
     }
 
